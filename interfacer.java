@@ -10,4 +10,5 @@ interface student{
 interface Login{
     void newAccount();
     void checkSid();
+    System.out.println("Nice!")
 }

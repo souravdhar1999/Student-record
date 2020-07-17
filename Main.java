@@ -12,6 +12,7 @@ public class Main {
         System.out.println("Please enter your choice:- ");
         System.out.println("1.Add student. 2.Display Student. 3. Exit");
         int choice=scanner.nextInt();
+        int v=0;
         if(choice==2){
             access.display();
         }

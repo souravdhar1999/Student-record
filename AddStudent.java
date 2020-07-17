@@ -29,6 +29,7 @@ public class AddStudent extends Teacherlogin implements student  {
                 midterm[i]=scanner.nextInt();
                 System.out.println("Final Grade");
                 finalgarde[i]=scanner.nextInt();
+               System.out.println("The work is finally done");
             }
         }
     }
